@@ -1,0 +1,16 @@
+
+*.cache
+
+WebApplication/WebApplication/obj/Debug/net6.0/WebApplication.AssemblyInfo.cs
+
+WebApplication/WebApplication/obj/Debug/net6.0/WebApplication.GeneratedMSBuildEditorConfig.editorconfig
+
+WebApplication/WebApplication/obj/project.assets.json
+
+WebApplication/WebApplication/obj/WebApplication.csproj.nuget.dgspec.json
+
+WebApplication/WebApplication/obj/WebApplication.csproj.nuget.g.props
+
+WebApplication/WebApplication/wwwroot/lib/jquery/LICENSE.txt
+
+WebApplication/WebApplication/wwwroot/lib/jquery-validation/LICENSE.md
