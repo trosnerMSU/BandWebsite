@@ -1,16 +1,20 @@
 
+WindagoWebApplication/.vs/WindagoWebApplication/v17/.suo
+
+WindagoWebApplication/WindagoWebApplication/obj/Debug/net6.0/WindagoWebApplication.AssemblyInfo.cs
+
 *.cache
 
-WebApplication/WebApplication/obj/Debug/net6.0/WebApplication.AssemblyInfo.cs
+WindagoWebApplication/WindagoWebApplication/obj/Debug/net6.0/WindagoWebApplication.GeneratedMSBuildEditorConfig.editorconfig
 
-WebApplication/WebApplication/obj/Debug/net6.0/WebApplication.GeneratedMSBuildEditorConfig.editorconfig
+WindagoWebApplication/WindagoWebApplication/obj/project.assets.json
 
-WebApplication/WebApplication/obj/project.assets.json
+WindagoWebApplication/WindagoWebApplication/obj/WindagoWebApplication.csproj.nuget.dgspec.json
 
-WebApplication/WebApplication/obj/WebApplication.csproj.nuget.dgspec.json
+WindagoWebApplication/WindagoWebApplication/obj/WindagoWebApplication.csproj.nuget.g.props
 
-WebApplication/WebApplication/obj/WebApplication.csproj.nuget.g.props
+WindagoWebApplication/WindagoWebApplication/wwwroot/lib/jquery/LICENSE.txt
 
-WebApplication/WebApplication/wwwroot/lib/jquery/LICENSE.txt
+WindagoWebApplication/WindagoWebApplication/wwwroot/lib/jquery-validation/LICENSE.md
 
-WebApplication/WebApplication/wwwroot/lib/jquery-validation/LICENSE.md
+WindagoWebApplication/WindagoWebApplication/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt

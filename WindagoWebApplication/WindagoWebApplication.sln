@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication", "WebApplication\WebApplication.csproj", "{41DE0B99-7C9C-4676-874E-BA5C2538655B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindagoWebApplication", "WindagoWebApplication\WindagoWebApplication.csproj", "{53AD39B3-A6CE-4F4F-835D-232E7D578943}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{41DE0B99-7C9C-4676-874E-BA5C2538655B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{41DE0B99-7C9C-4676-874E-BA5C2538655B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{41DE0B99-7C9C-4676-874E-BA5C2538655B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{41DE0B99-7C9C-4676-874E-BA5C2538655B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53AD39B3-A6CE-4F4F-835D-232E7D578943}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53AD39B3-A6CE-4F4F-835D-232E7D578943}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53AD39B3-A6CE-4F4F-835D-232E7D578943}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53AD39B3-A6CE-4F4F-835D-232E7D578943}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {525B8F10-8628-458C-88BE-5A7D856ADB01}
+		SolutionGuid = {BF40CDF1-E495-473F-BE46-8DA0FA94248C}
 	EndGlobalSection
 EndGlobal
