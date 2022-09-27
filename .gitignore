@@ -18,3 +18,9 @@ WindagoWebApplication/WindagoWebApplication/wwwroot/lib/jquery/LICENSE.txt
 WindagoWebApplication/WindagoWebApplication/wwwroot/lib/jquery-validation/LICENSE.md
 
 WindagoWebApplication/WindagoWebApplication/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt
+
+*.v2
+
+WindagoWebApplication/.vs/WindagoWebApplication/FileContentIndex/ba1c2665-9255-46b0-a199-2646e0b9f283.vsidx
+
+WindagoWebApplication/.vs/WindagoWebApplication/FileContentIndex/read.lock
