@@ -24,3 +24,13 @@ WindagoWebApplication/WindagoWebApplication/wwwroot/lib/jquery-validation-unobtr
 WindagoWebApplication/.vs/WindagoWebApplication/FileContentIndex/ba1c2665-9255-46b0-a199-2646e0b9f283.vsidx
 
 WindagoWebApplication/.vs/WindagoWebApplication/FileContentIndex/read.lock
+
+*.1
+
+WindagoWebApplication/WindagoWebApplication/obj/Debug/net6.0/WindagoWebApplication.csproj.FileListAbsolute.txt
+
+WindagoWebApplication/WindagoWebApplication/obj/Debug/net6.0/staticwebassets.build.json
+
+WindagoWebApplication/WindagoWebApplication/obj/Debug/net6.0/staticwebassets.development.json
+
+WindagoWebApplication/WindagoWebApplication/obj/staticwebassets.pack.sentinel
