@@ -108,7 +108,7 @@ body {
         transform: translate3d(0, 150%, 0) scale(1.7);
         transition: transform 0.45s;
         /*Keyframes*/
-        @supports(filter: url('vectors.svg#goo')) {
+        @supports(filter: url(vectors.svg#goo)) {
             transform: translate3d(0, 150%, 0) scale(1.4);
         }
 
@@ -122,7 +122,7 @@ body {
         .blob-btn:hover & {
             transform: translateZ(0) scale(1.7);
 
-            @supports(filter: url('vectors.svg#goo')) {
+            @supports(filter: url(vectors.svg#goo)) {
                 transform: translateZ(0) scale(1.4);
             }
         }
@@ -130,3 +130,41 @@ body {
 }
 /*Blob nested style*/
 /*END*/
+
+
+@import "compass/css3";
+
+.logo {
+    width: 200px;
+    height: 164px;
+}
+
+.kiwi {
+    fill: #94d31b;
+    // stroke: #909;
+    // stroke-width: 10;
+    // not sure which of these is correct
+    // stroke-linejoin: butt | round | square;
+    // stroke-linecap: butt | round | square;
+    stroke-dasharray: 5, 5, 10;
+    filter: url(#pictureFilter);
+    mask: url(#f1);
+    clip-path: url();
+}
+
+.kiwi:hover {
+    fill: #ace63c;
+}
+
+.ground {
+    fill: #787f6a;
+}
+
+.ground:hover {
+    filter: url(#pictureFilter);
+    fill: #896d3d;
+}
+
+body {
+    padding: 20px;
+}

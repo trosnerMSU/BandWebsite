@@ -27,6 +27,7 @@ body {
     text-align: center;
     color: whitesmoke;
     border-radius: 10px;
+    display: inline-block;
 }
 
 /*Button extensions*/
@@ -39,4 +40,9 @@ body {
 
 .button:hover span {
     color: deepskyblue;
+}
+
+.buttonContainer{
+    display: inline-block;
+    width: 100%;
 }
